@@ -24,29 +24,3 @@ Then,
 virtualenv myenv
 ```
 After that, activate the virtual environment
-```
-source myenv/bin/activate
-```
-Subsequently, install the dependencies on your local machine.
-```
-pip install -r requirement.txt
-```
-Finally, run the application.
-```
-python manage.py runserver
-```
-
-## Built With
-
-* [Django](https://www.djangoproject.com/) - The web framework used
-* [PIP](https://pip.pypa.io/en/stable//) - Dependency Management
-
-## Contributing
-
-Please fork this project and send us a pull request.
-
-## Authors
-
-* **Arjun Adhikari**
-
-
